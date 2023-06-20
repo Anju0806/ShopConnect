@@ -28,7 +28,7 @@ router.get('/:id', async(req, res) => {
       res.status(404).json({ message: 'No category found with this id!' });
       return;
     }
-    res.status(200).json(userData);
+    res.status(200).json(category_data);
 
   }catch (error) {
     // Handle any errors
