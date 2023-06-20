@@ -1,4 +1,4 @@
-![screenshot5](https://github.com/Anju0806/ShopConnect/assets/126565826/40480152-f78a-4eac-bb05-15d5f8ff4a12)# E-commerce Back End Starter Code
+# ShopConnect
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
  ShopConnect is a back-end application for an e-commerce website that leverages the latest technologies to provide a robust and efficient platform. With ShopConnect, internet retail companies can compete with other e-commerce businesses by having a reliable and feature-rich back end.
