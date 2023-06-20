@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+![screenshot5](https://github.com/Anju0806/ShopConnect/assets/126565826/40480152-f78a-4eac-bb05-15d5f8ff4a12)# E-commerce Back End Starter Code
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
  ShopConnect is a back-end application for an e-commerce website that leverages the latest technologies to provide a robust and efficient platform. With ShopConnect, internet retail companies can compete with other e-commerce businesses by having a reliable and feature-rich back end.
@@ -90,6 +90,13 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Submit a pull request explaining your changes.
 
 ## Screenshots
+
+![screenshot1](https://github.com/Anju0806/ShopConnect/assets/126565826/326845ec-2640-42b0-bbf8-ba33943d558d)
+![screenshot2](https://github.com/Anju0806/ShopConnect/assets/126565826/385772c5-af20-42c0-9288-c3aedc0bb563)
+![screenshot3](https://github.com/Anju0806/ShopConnect/assets/126565826/66512a0f-2ef4-4bc4-aef5-ff38e10c8d73)
+![screenshot4](https://github.com/Anju0806/ShopConnect/assets/126565826/b1d0c1d9-d7d3-44de-8431-f56add30dfed)
+![screenshot5](https://github.com/Anju0806/ShopConnect/assets/126565826/0172f7e6-002e-4e2e-9c72-cf97a06c656b)
+![screenshot6](https://github.com/Anju0806/ShopConnect/assets/126565826/437add12-5f53-4faa-a6fe-6c1cd5f64b90)
 
 ## Questions
 If you have any questions about the repo, please open an issue or contact me at anjualfino@gmail.com. 
