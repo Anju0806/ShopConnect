@@ -3,12 +3,9 @@
 
  ShopConnect is a back-end application for an e-commerce website that leverages the latest technologies to provide a robust and efficient platform. With ShopConnect, internet retail companies can compete with other e-commerce businesses by having a reliable and feature-rich back end.
 
-
 ## Description
 
 This project utilizes Express.js as the framework for building the API and Sequelize as the Object-Relational Mapping (ORM) tool to interact with a MySQL database. By following the provided acceptance criteria, you can set up and run the application smoothly.
-
-
 
 ## Table of Contents
 
@@ -93,7 +90,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Submit a pull request explaining your changes.
 
 ## Screenshots
-
 
 ## Questions
 If you have any questions about the repo, please open an issue or contact me at anjualfino@gmail.com. 
